@@ -1,0 +1,6 @@
+if SHIELD_PTERON36_ERGOGEN
+
+config ZMK_KEYBOARD_NAME
+    default "Pteron36"
+
+endif

@@ -1,0 +1,9 @@
+file_format: "1"
+id: pteron36_ergogen
+name: Pteron36_ergogen
+type: shield
+requires: [pro_micro]
+features:
+  - keys
+siblings:
+  - pteron36_ergogen
